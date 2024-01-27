@@ -6,6 +6,11 @@
     
 }
 
+@font-face {
+    font-family: 'kajiro';
+    src: url(/Kajiro\ Bold.ttf) format('truetype');
+}
+
 html,body{
     width: 100%;
     height: 100%;
