@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'kajiro';
-    src: url(Kajiro.ttf) format('truetype');
+    src: url(/Kajiro.ttf);
 }
 
 html,body{
