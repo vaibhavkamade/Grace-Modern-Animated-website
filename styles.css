@@ -6,10 +6,10 @@
     
 }
 
-@font-face {
+/* @font-face {
     font-family: 'kajiro';
     src: url('Kajiro\ Bold.ttf');
-}
+} */
 
 html,body{
     width: 100%;
@@ -148,15 +148,17 @@ html,body{
 #hleft .elem h1{
     position: absolute;
     top: 100%;
-    font-family: 'kajiro';
-    font-size: 9vw;
+    /* font-family: 'kajiro'; */
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 6.5vw;
     color: white;
     font-weight: 300;
     padding: 0vw 3vw;
 }
 
 #hleft button{
-    font-family: 'kajiro';
+    /* font-family: 'kajiro'; */
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 3vw;
     padding: 0.8vw 1.6vw;
     margin-top: 2vw;
